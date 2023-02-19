@@ -1,0 +1,113 @@
+#logo_twitter{
+    width: 30px;
+    height: 30px;
+    color:  rgb(212, 207, 207);
+    padding-left: 7.6cm;
+    
+}
+
+#cont_logo{
+    width: 1.75rem;
+    max-width: 100%;
+}
+
+#form_div{
+    height: 200px;
+    text-align: center;
+    background-color: black;
+    border: 1px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.bot_sub{
+    background-color: white;
+    font: inherit;
+    color: inherit;
+    width: inherit;
+    height: inherit;
+}
+
+h2{
+    font: 26px;
+    color: #e7e9ea;
+    font-size: medium;
+
+}
+
+.TABLA{
+    background-color: black;
+    width: 600px;
+    height: 650px;
+    margin: auto;
+    margin-top: 180px;
+    border: 2px solid black;
+    border-radius: 12px;
+    padding: 5px;
+    
+}
+
+#IN_G{
+    
+    margin: 31px;
+    height: 40px;
+    width: 300px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    padding: 12px;
+
+}
+
+#IN_A{
+    color: black;
+    background-color: white;
+    height: 40px;
+    width: 300px;
+    border: 2px solid rgb(255, 255, 255);
+    border-radius: 20px;
+    padding: 12px;
+
+}
+
+
+#PRINCIPAL{
+    height: 40px;
+    width: 278px;
+    background-color:black;
+    color:white;
+    font: size 12pt;
+    overflow:hidden;
+    white-space:nowrap;
+    text-overflow: ellipsis;
+    
+
+
+}
+
+#TABLA_2{  
+    color: black;
+}
+
+
+
+h2{
+    font-size: 30px;
+    position: relative;
+    left: 4cm;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+#pag_inic{
+    font-size: 17px;
+    font-family: cursive;
+    left: 0.5cm; 
+    top :-4cm;
+    color: rgb(red, green, blue);
+    
+}
+
+#texto{
+    color: white;
+    font-size: 20px;
+}
